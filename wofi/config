@@ -1,0 +1,11 @@
+width=700
+height=450
+show=drun
+prompt=>
+allow_markup=true
+term=kitty
+normal_window=true
+hide_scroll=true
+gtk_dark=true
+matching=fuzzy
+insensitive=true

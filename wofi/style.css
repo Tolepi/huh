@@ -1,0 +1,44 @@
+* {
+    font-family: "Terminess Nerd Font";
+    font-size: 14px;
+}
+
+window {
+    background-color: #1c1b29;
+    border: 2px solid #abd2db;
+    border-radius: 8px;
+}
+
+#outer-box {
+    margin: 8px;
+}
+
+#input {
+    background-color: #353647;
+    color: #cfd9d9;
+
+    border: 2px solid #515467;
+    border-radius: 6px;
+
+    padding: 8px;
+    margin-bottom: 8px;
+}
+
+#scroll {
+    margin: 4px;
+}
+
+#entry {
+    padding: 8px;
+    border-radius: 6px;
+    color: #929cad;
+}
+
+#entry:selected {
+    background-color: #353647;
+    color: #abd2db;
+}
+
+#text:selected {
+    color: #abd2db;
+}
